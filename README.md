@@ -2,6 +2,10 @@
 
 Officially the event aggregator of [AA.js](https://github.com/emismith90/aa.js)
 
+## Installation
+
+> bower install aquarium.js
+
 ## Usage
 
 ```javascript
