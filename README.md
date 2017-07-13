@@ -1,6 +1,6 @@
 ## A lightweight event aggregator
 
-Officially the event aggregator of AA.js
+Officially the event aggregator of [AA.js](https://github.com/emismith90/aa.js)
 
 ## Usage
 
