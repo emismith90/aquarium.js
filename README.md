@@ -1,9 +1,10 @@
-##A lightweight event aggregator
+## A lightweight event aggregator
 
 Officially the event aggregator of AA.js
 
-##Usage
+## Usage
 
+```javascript
 var aquarium = new Aquarium('pacific', true);
 aquarium.whenPet('shark', 'whale', function (food) {
     console.log(food);
@@ -15,6 +16,8 @@ aquarium.whenPet('shark', function (food) {
 
 aquarium.pet('shark', 'feeding sharks');
 aquarium.pet('whale', 'feeding whales');
+```
 
-##aquarium.js was developed by [emismith90].
+## Released under the MIT license
+
 
